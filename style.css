@@ -21,6 +21,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  line-height: 1.6;
 }
 
 .QR-Code {
