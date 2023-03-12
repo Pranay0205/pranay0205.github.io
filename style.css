@@ -14,7 +14,7 @@ body {
   --font-size: 15px;
 }
 
-.container {
+main {
   background-color: hsl(212, 45%, 89%);
   width: 1440px;
   display: flex;
@@ -54,7 +54,7 @@ body {
 }
 
 @media only screen and (max-width: 375px) {
-  .container {
+  main {
     width: 375px;
   }
 
